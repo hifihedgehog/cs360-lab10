@@ -1,0 +1,207 @@
+nohup: ignoring input
+
+> cluster@0.0.0 start /opt/bitnami/apache2/htdocs/cluster
+> node ./bin/www
+
+Service ID 21387
+[0mGET /pid [32m200 [0m8.708 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m1.790 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.542 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.264 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.292 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.830 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.453 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.274 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.269 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.267 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.612 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m1.289 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m1.674 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.399 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.744 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.285 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.260 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.551 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.600 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.921 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.395 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.242 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.570 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.278 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.435 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.580 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.555 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.265 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.265 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.265 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.248 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.248 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m2.440 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.249 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.296 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.256 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.258 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.264 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.611 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.262 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.255 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.297 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.266 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.469 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.263 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.272 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.281 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.248 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.266 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m1.092 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.298 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.267 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.270 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.681 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.260 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.299 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.258 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.251 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.269 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.263 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.295 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.271 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.275 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.258 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.254 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.716 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.684 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.262 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.261 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.257 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.256 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.247 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.272 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.270 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.704 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.271 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.280 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.269 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m1.201 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.299 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.298 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.270 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.309 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.332 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.271 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.267 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.284 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.280 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.265 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.281 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.271 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.444 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.311 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.265 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.281 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.284 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.756 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.432 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.261 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.264 ms - 31[0m
+Service ID 21387
+[0mGET /pid [32m200 [0m0.249 ms - 31[0m
